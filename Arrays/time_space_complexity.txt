@@ -1,0 +1,13 @@
+
+| Operation                       | Time Complexity| Space Complexity|
+|---------------------------------|----------------|-----------------|
+| Create empty array              | O(1)           | O(1)            |
+| Create array with n elements    | O(n)           | O(n)            |
+| Insert at end                   | O(1)           | O(1)            |
+| Insert at beginning/middle      | O(n)           | O(1)            |
+| Access element by index         | O(1)           | O(1)            |
+| Traverse all elements           | O(n)           | O(1)            |
+| Search (unsorted, linear)       | O(n)           | O(1)            |
+| Search (sorted, binary search)  | O(log n)       | O(1)            |
+| Delete by value (search first)  | O(n)           | O(1)            |
+| Delete by index                 | O(n)           | O(1)            |
